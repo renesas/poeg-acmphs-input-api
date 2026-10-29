@@ -1,3 +1,0 @@
-*.hex filter=lfs diff=lfs merge=lfs -text
-*.srec filter=lfs diff=lfs merge=lfs -text
-*.sbd filter=lfs diff=lfs merge=lfs -text
